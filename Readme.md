@@ -1,1 +1,1 @@
-# Mini project from stepik course https://stepik.org/course/58852
+# Mini projects from stepik course https://stepik.org/course/58852
