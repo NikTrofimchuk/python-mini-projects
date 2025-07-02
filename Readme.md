@@ -1,0 +1,1 @@
+# Mini project from stepik course https://stepik.org/course/58852
